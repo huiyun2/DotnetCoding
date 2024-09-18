@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAdP/TlGnwM=",
+  "success": true,
+  "projectFilePath": "/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Services/DotnetCoding.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/huiyun/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/huiyun/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

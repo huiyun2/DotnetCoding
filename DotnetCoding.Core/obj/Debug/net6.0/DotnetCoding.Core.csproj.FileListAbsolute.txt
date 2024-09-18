@@ -1,0 +1,12 @@
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.deps.json
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.dll
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.AssemblyInfoInputs.cache
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.AssemblyInfo.cs
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.csproj.CoreCompileInputs.cache
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.sourcelink.json
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.dll
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/refint/DotnetCoding.Core.dll
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/huiyun/Desktop/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/ref/DotnetCoding.Core.dll
